@@ -1,4 +1,4 @@
-package com.example.studyandroid
+package com.example.studyandroid.greetingCard
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = "Hi, my name is $name!",
         modifier = modifier
     )
 }
@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     StudyAndroidTheme {
-        Greeting("Android")
+        Greeting("Anna")
     }
 }
