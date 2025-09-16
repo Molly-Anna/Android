@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_Name">Hanna Chirkova</string>
+    <string name="title">The sweetest bun in the universe</string>
+    <string name="phone_number">+7 (999) 000 00 01</string>
+    <string name="email">sweetest@gmail.com</string>
+    <string name="location">Saint-Petersburg</string>
+</resources>
