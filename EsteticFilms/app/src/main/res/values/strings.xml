@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Aesthetic Film\'s</string>
+
+    <string name="person_film">Person</string>
+    <string name="person_film_description">Person</string>
+    <string name="person_film_director">Ernst Ingmar Bergman</string>
+    <string name="person_film_director_description">Ernst Ingmar Bergman</string>
+    <string name="person_film_country">Switzerland</string>
+    <string name="person_film_country_description">Switzerland</string>
+    <string name="person_film_year">1966</string>
+    <string name="person_film_year_description">1966</string>
+
+    <string name="eyes_wide_shut_film">Eyes Wide Shut</string>
+    <string name="eyes_wide_shut_film_description">Eyes wide shut</string>
+    <string name="eyes_wide_shut_film_director">Stanley Kubrick</string>
+    <string name="eyes_wide_shut_film_director_description">Stanley Kubrick</string>
+    <string name="eyes_wide_shut_film_country">USA</string>
+    <string name="eyes_wide_shut_film_country_description">USA</string>
+    <string name="eyes_wide_shut_film_year">1999</string>
+    <string name="eyes_wide_shut_film_year_description">1999</string>
+
+    <string name="belly_film">Belly</string>
+    <string name="belly_film_description">Belly</string>
+    <string name="belly_film_director">Hype Williams</string>
+    <string name="belly_film_director_description">Hype Williams</string>
+    <string name="belly_film_country">USA</string>
+    <string name="belly_film_country_description">USA</string>
+    <string name="belly_film_year">1998</string>
+    <string name="belly_film_year_description">1998</string>
+
+    <string name="manhunter_film">Manhunter</string>
+    <string name="manhunter_film_description">Manhunter</string>
+    <string name="manhunter_film_director">Michael Kenneth Mann</string>
+    <string name="manhunter_film_director_description">Michael Kenneth Mann</string>
+    <string name="manhunter_film_country">USA</string>
+    <string name="manhunter_film_country_description">USA</string>
+    <string name="manhunter_film_year">1986</string>
+    <string name="manhunter_film_year_description">1986</string>
+
+    <string name="ichi_the_killer_film">Ichi the Killer</string>
+    <string name="ichi_the_killer_film_description">chi the Killer</string>
+    <string name="ichi_the_killer_film_director">Takashi Miike</string>
+    <string name="ichi_the_killer_film_director_description">Takashi Miike</string>
+    <string name="ichi_the_killer_film_country">Japan</string>
+    <string name="ichi_the_killer_film_country_description">Japan</string>
+    <string name="ichi_the_killer_film_year">2001</string>
+    <string name="ichi_the_killer_film_year_description">2001</string>
+
+    <string name="blade_film">Blade</string>
+    <string name="blade_film_description">Blade</string>
+    <string name="blade_film_director">Stephen Norrington</string>
+    <string name="blade_film_director_description">Stephen Norrington</string>
+    <string name="blade_film_country">USA</string>
+    <string name="blade_film_country_description">USA</string>
+    <string name="blade_film_year">1998</string>
+    <string name="blade_film_year_description">1998</string>
+
+    <string name="letztes_jahr_in_matienbad_film">Letztes Jahr in Marienbad</string>
+    <string name="letztes_jahr_in_matienbad_film_description">Letztes Jahr in Marienbad</string>
+    <string name="letztes_jahr_in_matienbad_film_director">Alain Resnais</string>
+    <string name="letztes_jahr_in_matienbad_film_director_description">Alain Resnais</string>
+    <string name="letztes_jahr_in_matienbad_film_country">France</string>
+    <string name="letztes_jahr_in_matienbad_film_country_description">France</string>
+    <string name="letztes_jahr_in_matienbad_film_year">1961</string>
+    <string name="letztes_jahr_in_matienbad_film_year_description">1961</string>
+
+    <string name="garnet_color_film">Garnet color</string>
+    <string name="garnet_color_film_description">Garnet color</string>
+    <string name="garnet_color_film_director">Sergey Paradzhanov</string>
+    <string name="garnet_color_film_director_description">Sergey Paradzhanov</string>
+    <string name="garnet_color_film_country">USSR</string>
+    <string name="garnet_color_film_country_description">USSR</string>
+    <string name="garnet_color_film_year">1968</string>
+    <string name="garnet_color_film_year_description">1968</string>
+
+    <string name="lizard_in_a_woman_skin_film">Lizard in a woman skin</string>
+    <string name="lizard_in_a_woman_skin_film_description">Lizard in a woman skin</string>
+    <string name="lizard_in_a_woman_skin_film_director">Lucio Fulci</string>
+    <string name="lizard_in_a_woman_skin_film_director_description">Lucio Fulci</string>
+    <string name="lizard_in_a_woman_skin_film_country">Italy, France, Spain</string>
+    <string name="lizard_in_a_woman_skin_film_country_description">Italy, France, Spain</string>
+    <string name="lizard_in_a_woman_skin_film_year">1971</string>
+    <string name="lizard_in_a_woman_skin_film_year_description">1971</string>
+
+    <string name="gattaca_film">Gattaca</string>
+    <string name="gattaca_film_description">Gattaca</string>
+    <string name="gattaca_color_film_director">Andrew Niccol</string>
+    <string name="gattaca_film_director_description">Andrew Niccol</string>
+    <string name="gattaca_film_country">USA</string>
+    <string name="gattaca_film_country_description">USA</string>
+    <string name="gattaca_film_year">1997</string>
+    <string name="gattaca_film_year_description">1997</string>
+
+    <string name="the_neon_demon_film">The Neon Demon</string>
+    <string name="the_neon_demon_film_description">The Neon Demon</string>
+    <string name="the_neon_demon_film_director">Nicolas Winding Refn</string>
+    <string name="the_neon_demon_film_director_description">Nicolas Winding Refn</string>
+    <string name="the_neon_demon_film_country">USA, Denmark, France</string>
+    <string name="the_neon_demon_film_country_description">USA, Denmark, France</string>
+    <string name="the_neon_demon_film_year">2016</string>
+    <string name="the_neon_demon_film_year_description">2016</string>
+
+    <string name="american_psycho_film">American Psycho</string>
+    <string name="american_psycho_film_description">American Psycho</string>
+    <string name="american_psycho_film_director">Mary Harron</string>
+    <string name="american_psycho_film_director_description">Mary Harron</string>
+    <string name="american_psycho_film_country">USA</string>
+    <string name="american_psycho_film_country_description">USA</string>
+    <string name="american_psycho_film_year">2000</string>
+    <string name="american_psycho_film_year_description">2000</string>
+
+    <string name="leon_film">Leon</string>
+    <string name="leon_film_description">Leon</string>
+    <string name="leon_film_director">Luc Paul Besson</string>
+    <string name="leon_film_director_description">Luc Paul Besson</string>
+    <string name="leon_film_country">France, USA</string>
+    <string name="leon_film_country_description">France, USA</string>
+    <string name="leon_film_year">1994</string>
+    <string name="leon_film_year_description">1994</string>
+
+    <string name="pulp_fiction_film">Pulp Fiction</string>
+    <string name="pulp_fiction_film_description">Pulp Fiction</string>
+    <string name="pulp_fiction_film_director">Quentin Jerome Tarantino</string>
+    <string name="pulp_fiction_film_director_description">Quentin Jerome Tarantino</string>
+    <string name="pulp_fiction_film_country">USA</string>
+    <string name="pulp_fiction_film_country_description">USA</string>
+    <string name="pulp_fiction_film_year">1994</string>
+    <string name="pulp_fiction_film_year_description">1994</string>
+
+    <string name="the_holy_mountain_film">The Holy Mountain</string>
+    <string name="the_holy_mountain_film_description">The Holy Mountain</string>
+    <string name="the_holy_mountain_film_director">Alejandro Jodorowsky</string>
+    <string name="the_holy_mountain_film_director_description">Alejandro Jodorowsky</string>
+    <string name="the_holy_mountain_film_country">Mexico</string>
+    <string name="the_holy_mountain_film_country_description">Mexico</string>
+    <string name="the_holy_mountain_film_year">1973</string>
+    <string name="the_holy_mountain_film_year_description">1973</string>
+
+    <string name="oldboy_film">Oldboy</string>
+    <string name="oldboy_film_description">Oldboy</string>
+    <string name="oldboy_film_director">Park Chang Wook</string>
+    <string name="oldboy_film_director_description">Park Chang Wook</string>
+    <string name="oldboy_film_country">Japan, Korea</string>
+    <string name="oldboy_film_country_description">Japan, Korea</string>
+    <string name="oldboy_film_year">2003</string>
+    <string name="oldboy_film_year_description">2003</string>
+</resources>
