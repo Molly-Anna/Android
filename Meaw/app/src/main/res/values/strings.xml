@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Meow</string>
+    <string name="cat_name_1">Adolf</string>
+    <string name="cat_name_2">Murzic</string>
+    <string name="cat_name_3">Oleg</string>
+    <string name="cat_name_4">SpiderCat</string>
+    <string name="cat_name_5">Chtirlez</string>
+    <string name="cat_name_6">Valera</string>
+    <string name="cat_name_7">Ivleev</string>
+    <string name="cat_name_8">Prochor</string>
+    <string name="cat_name_9">Markiz</string>
+    <string name="cat_description_1">Sweet bun in a bikini.</string>
+    <string name="cat_description_2">I want to poop.</string>
+    <string name="cat_description_3">I am SLEEP.</string>
+    <string name="cat_description_4">The city can sleep peacefully because there is a Human Cat on its protection.</string>
+    <string name="cat_description_5">I do not suspect you yet, but I do not trust you anymore.</string>
+    <string name="cat_description_6">I am waiting for you my dear.</string>
+    <string name="cat_description_7">I ate all the best things in this kitchen.</string>
+    <string name="cat_description_8">Money</string>
+    <string name="cat_description_9">Sleep</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a cat.</string>
+</resources>
